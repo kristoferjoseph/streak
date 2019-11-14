@@ -1,2 +1,0 @@
-# streak
-Begin app
