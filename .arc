@@ -6,6 +6,7 @@ sing-yix
 @http
 get /
 get /modules/:type/:module
+get /try
 
 @tables
 data
